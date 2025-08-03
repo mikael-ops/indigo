@@ -1,105 +1,109 @@
 ---
 title: "How to Bulk on €5 a Day: The Student's Guide to Getting Bigger on a Budget"
-description: "Discover how students can bulk up on just €5 a day with a simple, high-calorie diet. Cheap food, smart prep, and zero excuses."
+layout: post
 date: 2025-08-03
-author: "Ghetto Gains"
-tags: [bulking, student fitness, cheap meals, dirty bulk]
 image: /assets/images/bulk-on-5-euros.jpg
+headerImage: false
+tag:
+- bulking
+- student fitness
+- dirty bulk
+- cheap food
+category: blog
+author: ghettogains
+description: Discover how students can bulk up on just €5 a day with a simple, high-calorie diet. Cheap food, smart prep, and zero excuses.
+star: true
 ---
 
-> 💡 *Strapped for cash but trying to gain mass? Here's how to bulk on just €5 a day — no protein powder required.*
+<div class="evidence">
+Strapped for cash but trying to gain mass? Here's how to bulk on just €5 a day — no protein powder required.
+</div>
 
 ---
 
-## 🥩 Why Dirty Bulking is Perfect for Broke Students
+## 🥩 Why Dirty Bulking Works for Broke Students
 
-Let’s be real: clean bulking on a student budget is hard. But **dirty bulking**? That’s your cheat code.
-
-Dirty bulking prioritizes:
-- **High calories**
-- **Cheap, dense foods**
-- **Minimal prep**
-
-The goal? **Surplus calories** = muscle gains.
+Dirty bulking prioritizes **calories** over clean eating. That means cheap, dense foods, fast prep, and **surplus calories** — exactly what a broke gym bro needs.
 
 ---
 
 ## 🛒 €5/Day Bulking Meal Plan
 
-Here’s a sample budget-friendly meal plan (Estonia prices, 2025):
-
 | Meal | Ingredients | Cost |
 |------|-------------|------|
 | Breakfast | 100g oats + 2 tbsp peanut butter | €0.50 |
-| Lunch | 150g rice + 150g ground beef + sauce | €1.80 |
+| Lunch | 150g rice + 150g ground beef + tomato sauce | €1.80 |
 | Snack | 2 bananas + 1 tbsp peanut butter | €0.80 |
-| Dinner | Egg fried rice (2 eggs, 150g rice, 100g veggies) | €1.20 |
+| Dinner | Egg fried rice (2 eggs, 150g rice, 100g frozen veggies) | €1.20 |
 | Late Snack | 2 slices bread + margarine + jam | €0.60 |
-| **Total** | 2800–3200 kcal | **€4.90** |
+| **Total** | ~3000 kcal | **€4.90** |
 
-🔗 *[Link to full €5/day grocery list](#coming-soon)*
+<div class="spoiler">
+<p>Try swapping tuna in for ground beef once a week to keep things affordable and varied.</p>
+</div>
 
 ---
 
 ## 💪 Macronutrient Breakdown
 
-Rough macros (per day):
-- **Protein**: ~120g  
-- **Carbs**: ~300g  
-- **Fats**: ~110g
-
-Plenty to support **muscle growth**, especially for beginners.
+<span class="evidence">Protein: ~120g • Carbs: ~300g • Fats: ~110g</span>  
+Sufficient for bulking as a beginner or intermediate lifter.
 
 ---
 
 ## 🏪 Where to Shop in Estonia
 
-Cheap, calorie-dense foods from:
-- **Lidl**: Best for rice, peanut butter, oats
-- **Maxima**: Discount meat and frozen veggies
-- **Grossi Toidukaubad**: Flash sales on eggs, bread
-
-Want a full grocery breakdown?  
-📩 [Subscribe to get the dirty bulking shopping list PDF](#)
-
----
-
-## 🧠 Pro Tips to Stay on Budget
-
-1. **Buy in bulk** — 5kg rice sacks are cheaper per gram.
-2. **Freeze meat** in portioned bags.
-3. **Track calories** with a basic Excel sheet — no app needed.
-
-> 🛠 Want a free Notion meal planner template? [Download it here](#)
+<div class="side-by-side">
+  <div class="toleft">
+    <img class="image" src="/assets/images/lidl-vs-maxima.jpg" alt="Lidl vs Maxima">
+    <figcaption class="caption">Photo by Ghetto Gains</figcaption>
+  </div>
+  <div class="toright">
+    <ul>
+      <li><strong>Lidl</strong>: Best for oats, rice, peanut butter, eggs</li>
+      <li><strong>Maxima</strong>: Discount meat, frozen veggies</li>
+      <li><strong>Grossi</strong>: Occasional egg/bread deals</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
-## 🤑 Optional: Supplements on the Cheap
+## 🧠 Student Budget Tips
 
-If you can stretch your budget once a month:
+- Buy in bulk (5kg rice = huge savings)
+- Freeze meat in portions
+- Use a spreadsheet or Notion to track calories
 
-| Supplement | Est. Cost | Link |
-|------------|-----------|------|
-| Creatine Monohydrate (300g) | ~€9 | [MyProtein EU](#affiliate) |
-| Whey Protein (1kg) | ~€18 | [Bulk Powders](#affiliate) |
+Want a Notion meal tracker template?  
+📩 [Subscribe to get the free download](#)
+
+---
+
+## 🤑 Cheap Supplements (Optional)
+
+| Supplement | Est. Price | Affiliate Link |
+|------------|------------|----------------|
+| Creatine (300g) | ~€9 | [Buy Creatine →](#affiliate) |
+| Whey Protein (1kg) | ~€18 | [Buy Protein →](#affiliate) |
 
 ---
 
 ## 📌 Final Thoughts
 
-Gaining mass doesn’t require gourmet chicken breast and quinoa. It requires:
+<div class="breaker"></div>
+
+If you’re consistent, you can bulk without going broke. You just need:
 - A plan
-- Cheap, calorie-dense food
-- Consistency
+- Cheap food
+- Zero excuses
 
-And now, you’ve got all three.
-
----
-
-*Got questions? Want a custom €5 meal plan for your location?*  
-👉 Drop a comment or [email us](mailto:contact@ghettogains.co)
+<div class="evidence">
+Getting jacked on a budget is not only possible — it’s actually easier than you think.
+</div>
 
 ---
 
-**Share this with a fellow broke gym bro 💪**
+**Share this post with a broke gym bro who’s all excuses 💪**  
+**Next up:** [Top 10 Cheapest Protein Sources in Estonia](#)
 
