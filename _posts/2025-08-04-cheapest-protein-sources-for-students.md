@@ -4,6 +4,7 @@ description: "Get more protein for less. Discover the cheapest protein sources f
 date: 2025-08-04
 tags: [protein, student diet, cheap food, bulking]
 image: /assets/images/cheap-protein-student.jpg
+category: blog
 ---
 
 > 💪 *You don't need a supplement stack to hit 100g protein. Just a smart grocery list.*
