@@ -5,6 +5,7 @@ date: 2025-08-03
 author: "Ghetto Gains"
 tags: [bulking, student fitness, cheap meals, dirty bulk]
 image: /assets/images/bulk-on-5-euros.jpg
+category: blog
 ---
 
 > 💡 *Strapped for cash but trying to gain mass? Here's how to bulk on just €5 a day — no protein powder required.*
